@@ -1,0 +1,16 @@
+.header{
+    background-color: black;
+    padding:5px;
+    margin-bottom: 1rem;
+}
+
+.list a{
+    margin: 10px;
+    color: yellow; 
+    text-decoration: none;
+}
+
+ .list a.active{
+    text-decoration: underline;
+    color: orange;
+} 
